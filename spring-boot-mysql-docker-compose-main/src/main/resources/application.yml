@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://mysqldb:3306/sbms
     username: root
-    password: rambsc
+    password: R@mbsc888
   jpa:
     hibernate:
       ddl-auto: update
